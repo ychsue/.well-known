@@ -4,8 +4,10 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.yescirculation.nonblockinglife",
-      "sha256_cert_fingerprints":
-        ["1C:EA:29:33:5E:8F:FC:EB:46:0E:BC:CB:62:F4:CB:7F:49:54:88:DF:7D:19:83:91:C9:01:59:1A:FB:98:C8:C2"]
+      "sha256_cert_fingerprints": [
+        "1C:EA:29:33:5E:8F:FC:EB:46:0E:BC:CB:62:F4:CB:7F:49:54:88:DF:7D:19:83:91:C9:01:59:1A:FB:98:C8:C2",
+        "46:B4:4C:CC:C1:9C:59:9D:68:17:C0:32:31:10:C4:5E:B1:67:D7:78:26:22:47:05:55:A6:D8:2F:26:B5:89:74"
+      ]
     }
   }
 ]
