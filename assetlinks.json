@@ -4,9 +4,8 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.yescirculation.nonblockinglife",
-      "sha256_cert_fingerprints": [
-        "24:57:45:36:5E:4B:9B:26:39:4C:6C:54:FD:03:22:0C:02:71:89:F0:53:BD:61:0D:6B:7B:62:BC:DC:BE:79:0E"
-      ]
+      "sha256_cert_fingerprints":
+        ["1C:EA:29:33:5E:8F:FC:EB:46:0E:BC:CB:62:F4:CB:7F:49:54:88:DF:7D:19:83:91:C9:01:59:1A:FB:98:C8:C2"]
     }
   }
 ]
